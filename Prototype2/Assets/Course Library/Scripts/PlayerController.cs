@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public float xRange = 20.0f;
+    public float zRange = 20.0f;
     public float horizontalInput;
     public float speed = 20.0f;
 
